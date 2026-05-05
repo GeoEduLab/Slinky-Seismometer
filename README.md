@@ -119,7 +119,7 @@ Upload the code from the [Code.ino](Code.ino) file into Arduino IDE and upload i
 
 Here we have uploaded a video tutorial of what the final construction of the Seismometer should look like:
 
-[![Watch the video](images/thumbnail.png)](video/Tutorial.mp4)
+![Watch the video](images/thumbnail.png)
 
 ____
 
