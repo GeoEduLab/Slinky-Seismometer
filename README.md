@@ -117,9 +117,10 @@ Upload the code from the [Code.ino](Code.ino) file into Arduino IDE and upload i
 
 ## Final Construction
 
-Here we have uploaded a video tutorial of what the final construction of the Seismometer should look like:
+Here we have uploaded a video tutorial of what the final construction of the Seismometer should look like, with captions in both Romanian and English:
 
-![Watch the video](images/Thumbnail.png)
+Romanian: [Tutorial Seismometru Slinky Printat 3D](https://youtu.be/w_kdPtV5URQ)
+English: [Slinky 3D Printed Seismometer Tutorial](https://youtu.be/ZRdrBqrjvc4)
 
 ____
 
